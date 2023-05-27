@@ -1,0 +1,29 @@
+.Form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+
+}
+
+.Div {
+    margin: 50px;
+}
+
+.Form input {
+    margin-bottom: 10px;
+}
+
+.Form input {
+    font-size: 1em;
+    margin-bottom: 5px;
+    padding: 0.25em 1em;
+    border: 2px solid #BF4F74;
+    border-radius: 3px;
+    width: 20vw;
+}
+
+.Button {
+    margin-top: 10px;
+}
